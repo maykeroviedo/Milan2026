@@ -4,4 +4,5 @@ Despedida de soltero de Sergio · Milán + Ferrari + Bernina · 1–6 octubre 20
 
 Página única (`index.html`) en español y portugués (botón 🇪🇸/🇵🇹, o `?lang=pt` en el enlace).
 
-Web: https://maykeroviedo.github.io/milan2026/
+Web: https://maykeroviedo.github.io/Milan2026/
+Web: https://maykeroviedo.github.io/Milan2026/`?lang=pt`
